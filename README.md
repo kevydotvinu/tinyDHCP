@@ -1,4 +1,4 @@
-# tinyPXE
+# tinyDHCP
 A containerized DHCP server using Alpine and Dnsmasq.
 
 ## Prerequisites packages
