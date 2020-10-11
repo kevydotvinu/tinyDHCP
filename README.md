@@ -48,3 +48,4 @@ podman run --rm \
            --security-opt label=disable \
            --name tinydhcp localhost/kevydotvinu/tinydhcp:v1
 ```
+To run the pod in background, replace --rm, --interactive and --tty with --detach.
